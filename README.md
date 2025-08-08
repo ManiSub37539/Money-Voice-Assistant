@@ -14,3 +14,8 @@ _is subject to change hehe >-<_
 **Microphone:** SuziePi 2 Pcs USB 2.0 Mini Microphone\
 **Speakers:**
 
+### Software:
+**Operating System:** Debian GNU/Linux 12 (bookworm)\
+**Audio Streaming Server:** Icecast2\
+**Audio Streamer:** Darkice\
+
